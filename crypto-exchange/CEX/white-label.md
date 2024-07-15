@@ -17,6 +17,7 @@
 
 - ChainUp
   - https://www.chainup.com/solutions/digital-asset-exchanges
+  - Born in 2017
 ## India
 [Rejolut](https://rejolut.com/blockchain/white-label-crypto-exchange/)
 - [linkedin](https://www.linkedin.com/company/rejolut)
