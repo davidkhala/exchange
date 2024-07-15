@@ -15,6 +15,8 @@
   - https://alphapoint.com/product/alphapoint-exchange-software/
   - tags: famous, New York. 
 
+- ChainUp
+  - https://www.chainup.com/solutions/digital-asset-exchanges
 ## India
 [Rejolut](https://rejolut.com/blockchain/white-label-crypto-exchange/)
 - [linkedin](https://www.linkedin.com/company/rejolut)
