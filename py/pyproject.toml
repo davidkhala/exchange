@@ -8,9 +8,8 @@ readme = "README.md"
 dependencies = ["davidkhala-utils"]
 
 [project.optional-dependencies]
-webull = [
-    "webull-openapi-python-sdk",
-]
+webull = ["webull-openapi-python-sdk"]
+itick = ["itick-sdk"]
 
 [dependency-groups]
 dev = ["pytest"]
