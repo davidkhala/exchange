@@ -23,3 +23,6 @@
 | US | Stocks, ETFs |
 | US | Overnight Session |
 | China Mainland | A-Shares (Stock Connect) |
+
+## API Rate limit
+Market Data API: 600 requests per minute
